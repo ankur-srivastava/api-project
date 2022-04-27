@@ -16,3 +16,4 @@ You may also see any lint errors in the console.
 
 ### Use fetch and useEffect
 ### Show Loading state and Errors
+### Interacts with Firebase API
